@@ -1,2 +1,2 @@
-# Davidson
-I am a kids
+# davidsonluma
+Hello guys i am very happy to make part of freecodecamp
